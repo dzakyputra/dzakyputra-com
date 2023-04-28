@@ -3,25 +3,25 @@
     
     <title>Dzaky Putra</title>
     <description>A blog to documenting my life</description>
-    <link>https://dzakyputra.github.io/dzakyputra-com</link>
+    <link>/</link>
     
     <language>en</language>
     <copyright>Copyright 2023, Calvin Tran</copyright>
     <lastBuildDate>Fri, 28 Apr 2023 16:41:50 +0700</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
-    <atom:link href="https://dzakyputra.github.io/dzakyputra-com/atom.xml" rel="self" type="application/atom+xml"/>
+    <atom:link href="//atom.xml" rel="self" type="application/atom+xml"/>
     
     
     <item>
       <title>First Post</title>
-      <link>https://dzakyputra.github.io/dzakyputra-com/posts/1/</link>
+      <link>/posts/1/</link>
       <description>&lt;p&gt;Stumbled upon this static site generator, decided to give it a try and make it as the primary engine of this blog.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s see if I can consistenly posting in this blog lol.&lt;/p&gt;
 &lt;p&gt;Cheers!&lt;/p&gt;
 </description>
       <author>Dzaky Putra</author>
-      <guid>https://dzakyputra.github.io/dzakyputra-com/posts/1/</guid>
+      <guid>/posts/1/</guid>
       <pubDate>Fri, 28 Apr 2023 16:41:50 +0700</pubDate>
     </item>
     
