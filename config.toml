@@ -1,6 +1,6 @@
 baseURL = ''
 languageCode = 'en-us'
-title = 'Dzaky Putra'
+title = 'Dzaky Widya Putra'
 paginate = 3
 publishDir = 'docs'
 theme = 'maverick'
@@ -10,8 +10,8 @@ theme = 'maverick'
 
 [params]
   logo = '/assets/favicon.ico'
-  description = "A blog to documenting my life"
-  author = 'Dzaky Putra'
+  description = "A blog for documenting my life"
+  author = 'Dzaky Widya Putra'
 
 
 [menu]
