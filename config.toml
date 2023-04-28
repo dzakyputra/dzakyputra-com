@@ -2,6 +2,7 @@ baseURL = 'https://dzakyputra.github.io/dzakyputra-com'
 languageCode = 'en-us'
 title = 'Dzaky Putra'
 paginate = 3
+publishDir = 'docs'
 theme = 'maverick'
 
 [permalinks]
