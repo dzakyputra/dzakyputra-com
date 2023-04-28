@@ -1,0 +1,34 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Dzaky Putra",
+  "home_page_url": "https://dzakyputra.github.io/dzakyputra-com",
+  "feed_url": "https://dzakyputra.github.io/dzakyputra-comfeed.json",
+  "description": "A blog to documenting my life",
+  "favicon": "https://dzakyputra.github.io/dzakyputra-com/assets/favicon.ico",
+  "expired": false,
+  "author": {
+    "name": "Dzaky Putra",
+    "url": "https://dzakyputra.github.io/dzakyputra-com"
+  },
+  "items": [
+    
+    
+
+    
+    {
+      "id": "196627e522f81da6fa6f09db94b8f370926e163d",
+      "title": "First Post",
+      "summary": "",
+      "content_text": "Stumbled upon this static site generator, decided to give it a try and make it as the primary engine of this blog.\nLet\u0026rsquo;s see if I can consistenly posting in this blog lol.\nCheers!\n",
+      "content_html": "\u003cp\u003eStumbled upon this static site generator, decided to give it a try and make it as the primary engine of this blog.\u003c/p\u003e\n\u003cp\u003eLet\u0026rsquo;s see if I can consistenly posting in this blog lol.\u003c/p\u003e\n\u003cp\u003eCheers!\u003c/p\u003e\n",
+      "url": "https://dzakyputra.github.io/dzakyputra-com/posts/1/",
+      "date_published": "28046-28-09T441:2828:00+07:00",
+      "date_modified": "28046-28-09T441:2828:00+07:00",
+      "author": {
+        "name": "Dzaky Putra",
+        "url": "https://dzakyputra.github.io/dzakyputra-com"
+      }
+    }
+    
+  ]
+}
