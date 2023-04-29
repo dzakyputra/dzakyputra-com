@@ -1,6 +1,6 @@
 baseURL = ''
 languageCode = 'en-us'
-title = 'Dzaky Widya Putra'
+title = 'Dzaky Putra'
 paginate = 3
 publishDir = 'docs'
 theme = 'maverick'
