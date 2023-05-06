@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://dzakyputra.com/'
 languageCode = 'en-us'
 title = 'Dzaky Widya Putra'
 paginate = 3
