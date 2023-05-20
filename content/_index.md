@@ -10,6 +10,7 @@ Doing backend stuff using Go/Python is my primary super power, and with a little
 
 ## Several projects that I built:
 - 🍽️ <a href="https://best-nearby-restaurants.herokuapp.com" target="_blank">Best Nearby Restaurants</a>
+- 📔 <a href="https://bestbookstoread.info" target="_blank">Best Books To Read</a>
 
 I also did some writing in my <a href="https://medium.com/@dzakyputra" target="_blank">Medium</a>. Most of them are tech tutorials, but I want to try fiction next time🤞🏼.
 
