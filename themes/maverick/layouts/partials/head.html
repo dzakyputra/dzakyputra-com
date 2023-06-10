@@ -8,6 +8,7 @@
     {{ template "_internal/opengraph.html" . }}
     {{ template "_internal/schema.html" . }}
     {{ template "_internal/google_analytics.html" . }}
+    {{- partial "analytics.html" . }}
     <link rel="canonical" href="{{ .Permalink }}">
     <link rel="icon" href="{{ .Site.BaseURL }}/assets/favicon.ico">
     <link rel="dns-prefetch" href="https://www.google-analytics.com">

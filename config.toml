@@ -54,4 +54,7 @@ theme = 'maverick'
   mediatype = "application/json"
   baseName = "feed"
 
+[params.google.analytics]
+  id = "G-0ZNR6ZW0MM"
+
 ignoreErrors = ["error-remote-getjson"]

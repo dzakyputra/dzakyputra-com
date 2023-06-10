@@ -15,6 +15,7 @@ Doing backend stuff using Go/Python is my primary super power, and with a little
 I also did some writing in my <a href="https://medium.com/@dzakyputra" target="_blank">Medium</a>. Most of them are tech tutorials, but I want to try fiction next time🤞🏼.
 
 ## These are articles that I wrote:
+- ✍🏼 <a href="https://levelup.gitconnected.com/how-i-built-an-ai-powered-blog-that-runs-itself-339421fbd5d1" target="_blank">How I Built an AI-Powered Blog That Runs Itself</a>
 - 🖱️ <a href="https://medium.com/gitconnected/optimize-your-go-code-using-singleflight-3f11a808324" target="_blank">Optimize Go Code using Singleflight</a>
 - 🤖 <a href="https://medium.com/free-code-camp/how-to-build-a-bot-to-automate-your-mindless-tasks-using-python-and-google-bigquery-a34faf7fb74" target="_blank">How to Build a Bot to Automate Tasks using Python</a>
 - 📈 <a href="https://medium.com/free-code-camp/how-to-make-your-own-sentiment-analyzer-using-python-and-googles-natural-language-api-9e91e1c493e" target="_blank">How to Make your own Sentiment Analyzer</a>
@@ -23,5 +24,6 @@ I also did some writing in my <a href="https://medium.com/@dzakyputra" target="_
 Recently got interested about SaaS and thinking on building it. If you have ideas and want to discuss, I'm more than happy to help! 
 
 ## You can contact me through:
-- 📱 <a href="https://twitter.com/dzakyputra" target="_blank">Twitter</a>
-- 💼 <a href="https://linkedin.com/in/dzakyputra" target="_blank">Linkedin</a>
+- 📩 Email: hi@dzakyputra.com
+- 📱 Twitter: <a href="https://twitter.com/dzakyputra" target="_blank">twitter.com/dzakyputra</a>
+- 💼 Linkedin: <a href="https://linkedin.com/in/dzakyputra" target="_blank">linkedin.com/in/dzakyputra</a>
