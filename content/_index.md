@@ -9,7 +9,7 @@ I'm Dzaky, a Software Engineer, currently working at <a href="https://tokopedia.
 Doing backend stuff using Go/Python is my primary super power, and with a little help in the frontend using TailwindCSS, I sometimes created things. 
 
 ## Several projects that I built:
-- 📃 <a href="https://aitin.fly.dev/" target="_blank">AI Itinerary Generator</a>
+- 📃 <a href="https://itinerai.fly.dev/" target="_blank">AI Itinerary Generator</a>
 - 🍽️ <a href="https://best-nearby-restaurants.herokuapp.com" target="_blank">Best Nearby Restaurants</a>
 - 📔 <a href="https://bestbookstoread.info" target="_blank">Best Books To Read</a>
 
