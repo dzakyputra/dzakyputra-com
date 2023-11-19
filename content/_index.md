@@ -6,7 +6,7 @@ I'm Dzaky, a Software Engineer, currently working at <a href="https://tokopedia.
 
 <!-- I spent the first 3 years of my career as a Data Engineer and a Data Scientist at <a href="https://kulina.id" target="_blank">Kulina</a> and <a href="https://telkom.co.id/" target="_blank">Telkom</a> respectively, then as a Software Engineer in the last 2 years. -->
 
-Doing backend stuff using Go/Python is my primary super power, and with a little help in the frontend using TailwindCSS, I sometimes created things. 
+I sometimes create things, using Go/Python in the backend, and TailwindCSS in the frontend. 
 
 ## Several projects that I built:
 - 🖥️ <a href="https://screenshotweb.com/" target="_blank">Screenshot Web</a>
