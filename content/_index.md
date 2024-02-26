@@ -26,6 +26,6 @@ I also did some writing in my <a href="https://medium.com/@dzakyputra" target="_
 Recently got interested about SaaS and thinking on building it. If you have ideas and want to discuss, I'm more than happy to help! 
 
 ## You can contact me through:
-- 📩 Email: hi@dzakyputra.com
+- 📩 Email: dzakywidyaputra@gmail.com
 - 📱 Twitter: <a href="https://twitter.com/dzakyputra" target="_blank">twitter.com/dzakyputra</a>
 - 💼 Linkedin: <a href="https://linkedin.com/in/dzakyputra" target="_blank">linkedin.com/in/dzakyputra</a>
