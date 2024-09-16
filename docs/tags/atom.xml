@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Dzaky Putra</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Dzaky Putra</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Tags on Dzaky Widya Putra</title>
+    <link>https://dzakyputra.com/tags/</link>
+    <description>Recent content in Tags on Dzaky Widya Putra</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Apr 2023 16:41:50 +0700</lastBuildDate><atom:link href="/tags/atom.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>general</title>
-      <link>/tags/general/</link>
-      <pubDate>Fri, 28 Apr 2023 16:41:50 +0700</pubDate>
-      
-      <guid>/tags/general/</guid>
-      <description></description>
-    </item>
-    
+    <atom:link href="https://dzakyputra.com/tags/atom.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
