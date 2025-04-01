@@ -10,6 +10,7 @@ I sometimes create things, using Go/Python in the backend, and TailwindCSS in th
 
 ## Several projects that I built:
 <!-- - 🖥️ <a href="https://screenshotweb.com/" target="_blank">Screenshot Web</a> -->
+- 💬 <a href="https://chatanalyzer.app/" target="_blank">Chat Analyzer</a>
 - 📃 <a href="https://itinerai.fly.dev/" target="_blank">AI Itinerary Generator</a>
 - 🍽️ <a href="https://best-nearby-restaurants.herokuapp.com" target="_blank">Best Nearby Restaurants</a>
 - 📔 <a href="https://bestbookstoread.info" target="_blank">Best Books To Read</a>
