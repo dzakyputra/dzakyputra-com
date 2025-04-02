@@ -13,13 +13,12 @@ theme = 'maverick'
   description = "A blog for documenting my life"
   author = 'Dzaky Widya Putra'
 
-
-#[menu]
-#  [[menu.main]]
-#    identifier = "posts"
-#    name = "Post"
-#    url = "/posts/"
-#    weight = -200
+[menu]
+ [[menu.main]]
+   identifier = "posts"
+   name = "Post"
+   url = "/posts/"
+   weight = -200
 
 [markup]
   [markup.goldmark.renderer]
