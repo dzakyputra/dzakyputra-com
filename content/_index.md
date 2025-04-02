@@ -1,4 +1,4 @@
-A Software Engineer with 4+ years of experience, currently working at <a href="https://tokopedia.com" target="_blank">Tokopedia</a> (*Indonesia’s biggest e-commerce, valued at $7 billion, acquired by ByteDance*).
+A Software Engineer with 4+ years of experience, currently working at <a href="https://tokopedia.com" target="_blank">Tokopedia</a> (*Indonesia’s biggest e-commerce, valued at $7 billion, acquired by ByteDance*)
 
 <!-- I spent the first 3 years of my career as a Data Engineer and a Data Scientist at <a href="https://kulina.id" target="_blank">Kulina</a> and <a href="https://telkom.co.id/" target="_blank">Telkom</a> respectively, then as a Software Engineer in the last 2 years. -->
 
