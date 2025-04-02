@@ -2,6 +2,9 @@ A Software Engineer with 4+ years of experience, currently working at <a href="h
 
 <!-- I spent the first 3 years of my career as a Data Engineer and a Data Scientist at <a href="https://kulina.id" target="_blank">Kulina</a> and <a href="https://telkom.co.id/" target="_blank">Telkom</a> respectively, then as a Software Engineer in the last 2 years. -->
 
+## Tech Stacks & Interests:
+- Go, Python, TypeScript, TailwindCSS, PostgreSQL, Redis, InstantDB, AI & Machine Learning
+
 ## Projects:
 <!-- - 🖥️ <a href="https://screenshotweb.com/" target="_blank">Screenshot Web</a> -->
 - 💬 <a href="https://chatanalyzer.app/" target="_blank">Chat Analyzer</a>
