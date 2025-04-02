@@ -1,7 +1,5 @@
 Hi there! 👋🏼
 
-<img class="avatar" src="/assets/dzaky-min.png" alt="avatar">
-
 I'm Dzaky, a Software Engineer, currently working at <a href="https://tokopedia.com" target="_blank">Tokopedia</a>.
 
 <!-- I spent the first 3 years of my career as a Data Engineer and a Data Scientist at <a href="https://kulina.id" target="_blank">Kulina</a> and <a href="https://telkom.co.id/" target="_blank">Telkom</a> respectively, then as a Software Engineer in the last 2 years. -->
