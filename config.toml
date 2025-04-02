@@ -1,7 +1,7 @@
 baseURL = 'https://dzakyputra.com/'
 languageCode = 'en-us'
 title = 'Dzaky Widya Putra'
-paginate = 3
+pagination.pagerSize = 3
 publishDir = 'docs'
 theme = 'maverick'
 
@@ -16,7 +16,7 @@ theme = 'maverick'
 [menu]
  [[menu.main]]
    identifier = "posts"
-   name = "Post"
+   name = "Posts"
    url = "/posts/"
    weight = -200
 

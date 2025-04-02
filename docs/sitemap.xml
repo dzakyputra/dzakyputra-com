@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dzakyputra.com/</loc>
-    <lastmod>2023-11-19T16:41:50+07:00</lastmod>
+    <loc>http://localhost:57311/</loc>
+    <lastmod>2023-04-28T16:41:50+07:00</lastmod>
   </url><url>
-    <loc>https://dzakyputra.com/posts/</loc>
-    <lastmod>2023-11-19T16:41:50+07:00</lastmod>
+    <loc>http://localhost:57311/posts/1/</loc>
+    <lastmod>2023-04-28T16:41:50+07:00</lastmod>
   </url><url>
-    <loc>https://dzakyputra.com/pages/</loc>
+    <loc>http://localhost:57311/posts/</loc>
+    <lastmod>2023-04-28T16:41:50+07:00</lastmod>
   </url><url>
-    <loc>https://dzakyputra.com/project/</loc>
+    <loc>http://localhost:57311/pages/</loc>
   </url><url>
-    <loc>https://dzakyputra.com/tags/</loc>
+    <loc>http://localhost:57311/project/</loc>
+  </url><url>
+    <loc>http://localhost:57311/tags/</loc>
   </url>
 </urlset>

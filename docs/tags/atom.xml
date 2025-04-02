@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dzaky Widya Putra</title>
-    <link>https://dzakyputra.com/tags/</link>
+    <link>http://localhost:57311/tags/</link>
     <description>Recent content in Tags on Dzaky Widya Putra</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://dzakyputra.com/tags/atom.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:57311/tags/atom.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

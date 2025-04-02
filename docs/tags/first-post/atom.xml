@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First-Post on Dzaky Widya Putra</title>
+    <link>http://localhost:54890/tags/first-post/</link>
+    <description>Recent content in First-Post on Dzaky Widya Putra</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Apr 2023 16:41:50 +0700</lastBuildDate>
+    <atom:link href="http://localhost:54890/tags/first-post/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:54890/posts/1/</link>
+      <pubDate>Fri, 28 Apr 2023 16:41:50 +0700</pubDate>
+      <guid>http://localhost:54890/posts/1/</guid>
+      <description>&lt;p&gt;Stumbled upon this static site generator (Hugo), decided to give it a try and make it as the primary engine of this blog.&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s see if I can consistenly posting in this blog lol.&lt;/p&gt;&#xA;&lt;p&gt;Cheers!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
