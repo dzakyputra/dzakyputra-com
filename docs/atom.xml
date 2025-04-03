@@ -3,27 +3,15 @@
     
     <title>Dzaky Widya Putra</title>
     <description>A blog for documenting my life</description>
-    <link>http://localhost:57311/</link>
+    <link>https://dzakyputra.com/</link>
     
     <language>en</language>
     <copyright>Copyright 2025, Calvin Tran</copyright>
     <lastBuildDate>Fri, 28 Apr 2023 16:41:50 +0700</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
-    <atom:link href="http://localhost:57311//atom.xml" rel="self" type="application/atom+xml"/>
+    <atom:link href="https://dzakyputra.com//atom.xml" rel="self" type="application/atom+xml"/>
     
-    
-    <item>
-      <title>First Post</title>
-      <link>http://localhost:57311/posts/1/</link>
-      <description>&lt;p&gt;Stumbled upon this static site generator (Hugo), decided to give it a try and make it as the primary engine of this blog.&lt;/p&gt;
-&lt;p&gt;Let&amp;rsquo;s see if I can consistenly posting in this blog lol.&lt;/p&gt;
-&lt;p&gt;Cheers!&lt;/p&gt;
-</description>
-      <author>Dzaky Widya Putra</author>
-      <guid>http://localhost:57311/posts/1/</guid>
-      <pubDate>Fri, 28 Apr 2023 16:41:50 +0700</pubDate>
-    </item>
     
   </channel>
 </rss>

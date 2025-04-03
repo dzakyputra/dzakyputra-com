@@ -1,34 +1,19 @@
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "Dzaky Widya Putra",
-  "home_page_url": "http://localhost:57311/",
-  "feed_url": "http://localhost:57311/feed.json",
+  "home_page_url": "https://dzakyputra.com/",
+  "feed_url": "https://dzakyputra.com/feed.json",
   "description": "A blog for documenting my life",
-  "favicon": "http://localhost:57311//assets/favicon.ico",
+  "favicon": "https://dzakyputra.com//assets/favicon.ico",
   "expired": false,
   "author": {
     "name": "Dzaky Widya Putra",
-    "url": "http://localhost:57311/"
+    "url": "https://dzakyputra.com/"
   },
   "items": [
     
     
 
-    
-    {
-      "id": "196627e522f81da6fa6f09db94b8f370926e163d",
-      "title": "First Post",
-      "summary": "",
-      "content_text": "Stumbled upon this static site generator (Hugo), decided to give it a try and make it as the primary engine of this blog.\nLet\u0026rsquo;s see if I can consistenly posting in this blog lol.\nCheers!\n",
-      "content_html": "\u003cp\u003eStumbled upon this static site generator (Hugo), decided to give it a try and make it as the primary engine of this blog.\u003c/p\u003e\n\u003cp\u003eLet\u0026rsquo;s see if I can consistenly posting in this blog lol.\u003c/p\u003e\n\u003cp\u003eCheers!\u003c/p\u003e\n",
-      "url": "http://localhost:57311/posts/1/",
-      "date_published": "28046-28-09T441:2828:00+07:00",
-      "date_modified": "28046-28-09T441:2828:00+07:00",
-      "author": {
-        "name": "Dzaky Widya Putra",
-        "url": "http://localhost:57311/"
-      }
-    }
     
   ]
 }
