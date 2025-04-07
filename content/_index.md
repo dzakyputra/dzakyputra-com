@@ -1,12 +1,9 @@
 A Software Engineer with 4+ years of experience, currently working at <a href="https://tokopedia.com" target="_blank">Tokopedia</a> (*Indonesia’s biggest e-commerce, valued at US$7 billion, acquired by ByteDance*)
 
-<!-- I spent the first 3 years of my career as a Data Engineer and a Data Scientist at <a href="https://kulina.id" target="_blank">Kulina</a> and <a href="https://telkom.co.id/" target="_blank">Telkom</a> respectively, then as a Software Engineer in the last 2 years. -->
-
 ## Stacks & Interests:
 - Go, Python, TypeScript, TailwindCSS, Next.js, PostgreSQL, Redis, InstantDB, AI & Machine Learning
 
 ## Projects:
-<!-- - 🖥️ <a href="https://screenshotweb.com/" target="_blank">Screenshot Web</a> -->
 - 💬 <a href="https://chatanalyzer.app/" target="_blank">Chat Analyzer</a> - Analyze your WhatsApp chat using AI
 - 📃 <a href="https://itinerai.fly.dev/" target="_blank">AI Itinerary Generator</a> - Generate travel itinerary using AI
 - 🍽️ <a href="https://best-nearby-restaurants.herokuapp.com" target="_blank">Best Nearby Restaurants</a> - Discover top-rated dining spots in your area
@@ -19,8 +16,3 @@ A Software Engineer with 4+ years of experience, currently working at <a href="h
 - 📈 <a href="https://medium.com/free-code-camp/how-to-make-your-own-sentiment-analyzer-using-python-and-googles-natural-language-api-9e91e1c493e" target="_blank">How to Make your own Sentiment Analyzer</a>
 - 📝 <a href="https://medium.com/towards-data-science/create-a-telegram-bot-to-help-you-learn-a-new-language-aef10607b5f9" target="_blank">Create a Telegram Bot to Learn a New Language</a>
 - ➕ <a href="https://medium.com/@dzakyputra" target="_blank">More Articles....</a> 
-
-<!-- ## Contact:
-- 📩 Email: dzakywidyaputra@gmail.com
-- 📱 Twitter: <a href="https://twitter.com/dzakyputra" target="_blank">twitter.com/dzakyputra</a>
-- 💼 Linkedin: <a href="https://linkedin.com/in/dzakyputra" target="_blank">linkedin.com/in/dzakyputra</a> -->
