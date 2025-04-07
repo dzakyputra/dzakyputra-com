@@ -1,19 +1,34 @@
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "Dzaky Widya Putra",
-  "home_page_url": "https://dzakyputra.com/",
-  "feed_url": "https://dzakyputra.com/feed.json",
+  "home_page_url": "http://localhost:1313/",
+  "feed_url": "http://localhost:1313/feed.json",
   "description": "A blog for documenting my life",
-  "favicon": "https://dzakyputra.com//assets/favicon.ico",
+  "favicon": "http://localhost:1313//assets/favicon.ico",
   "expired": false,
   "author": {
     "name": "Dzaky Widya Putra",
-    "url": "https://dzakyputra.com/"
+    "url": "http://localhost:1313/"
   },
   "items": [
     
     
 
+    
+    {
+      "id": "427554ab5e9eb8b527766a923f9143464aec57f1",
+      "title": "Mulai Menulis (Lagi)",
+      "summary": "",
+      "content_text": "Hari terakhir libur lebaran (11 hari gila!), lagi di Pison Thamrin habis nyobain Chicken Parmigiana-nya yang ternyata enak banget. Pengen nutup libur lebaran yang cukup produktif (?) ini dengan tulisan.\nDari dulu sebenernya pengen rutin nulis, tapi disiplin sama konsistensinya gak ada. Mau coba belajar ningkatin itu dimulai dari sini, karena belakangan sering diingetin kalau the pain of dicipline itu sangat lebih mending daripada the pain of regret (bener gak ya kuwot nya begini). Sebelum bener-bener ditampar sama konsekuensi, kita coba mulai kali ya.\nYang bakal ditulis disini lebih ke personal aja, kayak opini pribadi, apa yang lagi dikerjain, kehidupan sehari-hari, kalau tulisan teknikal bakal tetep ditaroh di Medium.\nSemoga bisa\n",
+      "content_html": "\u003cp\u003eHari terakhir libur lebaran (11 hari gila!), lagi di Pison Thamrin habis nyobain Chicken Parmigiana-nya yang ternyata enak banget. Pengen nutup libur lebaran yang cukup produktif (?) ini dengan tulisan.\u003c/p\u003e\n\u003c!-- ## Kenapa mulai nulis lagi --\u003e\n\u003cp\u003eDari dulu sebenernya pengen rutin nulis, tapi disiplin sama konsistensinya gak ada. Mau coba belajar ningkatin itu dimulai dari sini, karena belakangan sering diingetin kalau \u003cem\u003ethe pain of dicipline\u003c/em\u003e itu sangat lebih mending daripada \u003cem\u003ethe pain of regret\u003c/em\u003e (bener gak ya kuwot nya begini). Sebelum bener-bener ditampar sama konsekuensi, kita coba mulai kali ya.\u003c/p\u003e\n\u003c!-- # Apa yang mau ditulis --\u003e\n\u003cp\u003eYang bakal ditulis disini lebih ke personal aja, kayak opini pribadi, apa yang lagi dikerjain, kehidupan sehari-hari, kalau tulisan teknikal bakal tetep ditaroh di \u003ca href=\"https://medium.com/@dzakyputra\" target=\"_blank\"\u003eMedium\u003c/a\u003e.\u003c/p\u003e\n\u003c!-- Target --\u003e\n\u003cp\u003eSemoga bisa\u003c/p\u003e\n",
+      "url": "http://localhost:1313/posts/mulai-menulis-lagi/",
+      "date_published": "7046-07-09T40:77:00+07:00",
+      "date_modified": "7046-07-09T40:77:00+07:00",
+      "author": {
+        "name": "Dzaky Widya Putra",
+        "url": "http://localhost:1313/"
+      }
+    }
     
   ]
 }

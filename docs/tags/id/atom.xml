@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>En on Dzaky Widya Putra</title>
-    <link>http://localhost:1313/tags/en/</link>
-    <description>Recent content in En on Dzaky Widya Putra</description>
+    <title>Id on Dzaky Widya Putra</title>
+    <link>http://localhost:1313/tags/id/</link>
+    <description>Recent content in Id on Dzaky Widya Putra</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Apr 2025 16:00:50 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/en/atom.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/id/atom.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mulai Menulis (Lagi)</title>
       <link>http://localhost:1313/posts/1/</link>
