@@ -15,4 +15,4 @@ Dari dulu sebenernya pengen rutin nulis, tapi disiplin sama konsistensinya gak a
 Yang bakal ditulis disini lebih ke personal aja, kayak opini pribadi, apa yang lagi dikerjain, dan segala macam kejadian yang ada di kehidupan sehari-hari, kalau tulisan teknikal bakal tetep ditaroh di <a href="https://medium.com/@dzakyputra" target="_blank">Medium</a>.
 
 <!-- # Target -->
-Dulu waktu SMA cukup sering nulis di blog pribadi, tapi sudah diarsipkan karena sangat *cringe* dan bisa jadi bahan *bully* di kemudian hari wkkwkw. Semoga kali ini tidak *cringe* ya, dan *blog* ini bisa jadi dokumentasi perjalanan hidup sampai tua nanti (ini *cringe* ga sih).
+Dulu waktu SMA cukup sering nulis di blog pribadi, tapi sudah diarsipkan karena sangat *cringe* dan bisa jadi bahan *bully* di kemudian hari wkkwkw. Semoga kali ini tidak *cringe* ya, dan *blog* ini bisa jadi dokumentasi perjalanan hidup sampai tua nanti (ini *cringe* gak sih).
