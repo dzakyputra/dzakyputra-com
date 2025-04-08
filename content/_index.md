@@ -10,6 +10,7 @@ A Software Engineer with 4+ years of experience, currently working at <a href="h
 - 📔 <a href="https://bestbookstoread.info" target="_blank">Best Books To Read</a> - AI-powered book recommendation blog
 
 ## Technical Writings:
+- 🔑 <a href="https://medium.com/@dzakyputra/how-to-keep-your-api-key-secure-when-using-the-chatgpt-api-in-your-app-13de2a19b73d" target="_blank">How to Keep Your API Key Secure When Using the ChatGPT API in Your App</a>
 - ✍🏼 <a href="https://levelup.gitconnected.com/how-i-built-an-ai-powered-blog-that-runs-itself-339421fbd5d1" target="_blank">How I Built an AI-Powered Blog That Runs Itself</a>
 - 🖱️ <a href="https://medium.com/gitconnected/optimize-your-go-code-using-singleflight-3f11a808324" target="_blank">Optimize Go Code using Singleflight</a>
 - 🤖 <a href="https://medium.com/free-code-camp/how-to-build-a-bot-to-automate-your-mindless-tasks-using-python-and-google-bigquery-a34faf7fb74" target="_blank">How to Build a Bot to Automate Tasks using Python</a>
