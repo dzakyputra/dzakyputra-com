@@ -16,9 +16,9 @@ theme = 'maverick'
 
 [menu]
  [[menu.main]]
-   identifier = "posts"
-   name = "Posts"
-   url = "/posts/"
+   identifier = "blog"
+   name = "Blog"
+   url = "/blog/"
    weight = -200
 
 [markup]
