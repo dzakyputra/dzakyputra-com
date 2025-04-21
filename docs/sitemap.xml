@@ -3,18 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-07T16:00:50+07:00</lastmod>
+    <lastmod>2025-04-20T16:00:50+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-04-07T16:00:50+07:00</lastmod>
+    <lastmod>2025-04-20T16:00:50+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/mulai-menulis-lagi/</loc>
-    <lastmod>2025-04-07T16:00:50+07:00</lastmod>
+    <loc>http://localhost:1313/blog/peace-makes-you-happier-than-fun/</loc>
+    <lastmod>2025-04-20T16:00:50+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/personal/</loc>
-    <lastmod>2025-04-07T16:00:50+07:00</lastmod>
+    <lastmod>2025-04-20T16:00:50+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-20T16:00:50+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/always-be-prepared/</loc>
+    <lastmod>2025-04-10T16:00:50+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/life-on-luck/</loc>
+    <lastmod>2025-04-10T16:00:50+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/living-on-repeat-until-now/</loc>
+    <lastmod>2025-04-10T16:00:50+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/yang-creepy-dari-skena-lari-jakarta/</loc>
+    <lastmod>2025-04-10T16:00:50+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/mulai-menulis-lagi/</loc>
     <lastmod>2025-04-07T16:00:50+07:00</lastmod>
   </url>
 </urlset>
