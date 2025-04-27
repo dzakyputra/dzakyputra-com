@@ -1,6 +1,6 @@
 ---
 title: "Membuat Produk Yang Dipakai Banyak Orang"
-date: 2025-04-26T16:00:50+07:00
+date: 2025-04-27T16:00:50+07:00
 draft: false
 tags: ["personal","work"]
 ---
