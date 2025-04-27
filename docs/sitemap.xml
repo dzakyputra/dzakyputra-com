@@ -3,18 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-20T16:00:50+07:00</lastmod>
+    <lastmod>2025-04-26T16:00:50+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-04-20T16:00:50+07:00</lastmod>
+    <lastmod>2025-04-26T16:00:50+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/peace-makes-you-happier-than-fun/</loc>
-    <lastmod>2025-04-20T16:00:50+07:00</lastmod>
+    <loc>http://localhost:1313/blog/membuat-produk-yang-dipakai-banyak-orang/</loc>
+    <lastmod>2025-04-26T16:00:50+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/personal/</loc>
-    <lastmod>2025-04-20T16:00:50+07:00</lastmod>
+    <lastmod>2025-04-26T16:00:50+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-26T16:00:50+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/work/</loc>
+    <lastmod>2025-04-26T16:00:50+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/peace-makes-you-happier-than-fun/</loc>
     <lastmod>2025-04-20T16:00:50+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/always-be-prepared/</loc>
