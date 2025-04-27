@@ -35,7 +35,7 @@ Bikin produk *from scratch*, *level* nya beda lagi, dan itu yang lagi dikejar se
 
 Punya produk yang dipakai sama orang—dan orang mau bayar—sebenernya udah jadi keinginan dari dulu, tapi emang karena *skill issue* jadi belum kesampaian 😂.
 
-Sebenernya gak perlu sampe dipakai jutaan orang sih, puluhan sampe ratusan user yang mau bayar per bulan juga harusnya cukup.
+Sebenernya gak perlu sampe dipakai jutaan orang sih, puluhan sampe ratusan *user* yang mau bayar per bulan juga harusnya cukup.
 
 Ada satu produk—*fun project* lebih tepatnya—yang masih dipakai orang sampai sekarang, sekitar 1-2 orang per hari lah 🤣, namanya <a href="https://best-nearby-restaurants.herokuapp.com" target="_blank">Best Nearby Restaurants</a>.
 
