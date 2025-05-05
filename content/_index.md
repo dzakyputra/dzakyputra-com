@@ -1,4 +1,4 @@
-A Software Engineer with 4+ years of experience, currently working at ByteDance
+A Software Engineer with 5+ years of experience, currently working at ByteDance
 
 ## Stacks & Interests:
 - Go, Python, TypeScript, TailwindCSS, Next.js, PostgreSQL, Redis, InstantDB, AI & Machine Learning
