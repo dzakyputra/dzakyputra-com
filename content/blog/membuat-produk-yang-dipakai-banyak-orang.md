@@ -31,7 +31,7 @@ Rilis fitur siang, terus balik sore, ngeliat orang buka HP di TJ sambil interaks
 
 Punya pengalaman bikin produk yang dipakai jutaan orang, tentunya karena waktu *join* di *company* yang sekarang, *existing user base* nya juga udah segitu.
 
-Bikin produk *from scratch*, *level* nya beda lagi, dan itu yang lagi dikejar sekarang.
+Bikin produk *from scratch*, *level* nya beda lagi, dan itu yang lagi dicoba sekarang.
 
 Punya produk yang dipakai sama orang—dan orang mau bayar—sebenernya udah jadi keinginan dari dulu, tapi emang karena *skill issue* jadi belum kesampaian 😂.
 
