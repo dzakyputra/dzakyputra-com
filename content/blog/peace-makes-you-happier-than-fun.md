@@ -19,16 +19,18 @@ I understand that peace, fun, and happiness mean different things to different p
 
 — That’s what they usually say.
 
-Well actually, I do go out—trying new cafes or food—but mostly when friends ask me first 😅.
+Well actually, I do go out—trying new activities, cafes, or food—but mostly when friends ask me first 😅.
 
 As for clubbing and partying? Not really my thing, too many people.
 
 Traveling the world? Honestly, I want that too—but right now, it doesn’t feel like the wisest choice financially for me.
 
-My week-to-week activities are mostly the same. I go to work during the weekdays—hit the gym afterward or go for a morning run. I eat almost the same thing every day and do some fun coding sessions on the weekends.
+My week-to-week activities are mostly the same. I go to work during the weekdays—hit the gym afterward or go for a morning run. I eat almost the same thing every day and do some productive coding sessions on the weekends.
 
 <!-- Why I do boring routines? -->
 <h1 style="margin-top: 2rem;"> Why I Do <span style="font-style: italic;"> Boring </span> Routines? </h1>
+I have always been a simple man, and I try to choose the simplest way to do things—even if it looks boring to everyone else.
+
 Well, boring routines aren’t so bad—they save you energy and money, and honestly, saving money is the best part.
 
 As a not-so-privileged salaryman working in a third-world country without a solid government pension plan, saving and investing early as much as possible can give you a better sense of security in the future, and hopefully give you more freedom later in life—at least that's my plan.
