@@ -40,7 +40,7 @@
       <hr style="border-top: 1px solid #333333; opacity: 0.1;"/>
       <h1>Latest Post</h1>
       <section>
-        {{ range (first 3 (where .Site.RegularPages "Section" "blog" ).ByDate.Reverse) }}
+        {{ range (first 5 (where .Site.RegularPages "Section" "blog" ).ByDate.Reverse) }}
           <p>
             <time class="g time" datetime="{{ dateFormat "02-01-2006" .Date }}">{{ dateFormat "02-01-2006" .Date }}</time>&nbsp;
             <a href="{{ .Permalink }}">{{ .Title }}</a>
