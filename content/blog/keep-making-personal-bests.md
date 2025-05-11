@@ -11,7 +11,7 @@ I started running around 2016. I remember that I used to run on the field in fro
 Not many people ran back then, at least not in Yogyakarta where I studied.
 
 <!-- First event at 2017 and my PB -->
-Then I participated in my first running event, it was the <a href="https://www.bankmandiri.co.id/en/news-detail?primaryKey=38496&backUrl=/search%3Fkeywords%3DMy%20name%20is%20MT4WhatsApp%EF%BC%9A%2085294399212%26searchCategory%3D0" target="_blank">Mandiri Jogja Marathon 2017</a> where I ran the 5K, with an official time of **35:00, or a 7 min/km pace**. I remember it exactly because the time was a round number 😅. Oh, and I almost vomited at the finish line LOL.
+Then I participated in my first running event, it was the <a href="https://www.bankmandiri.co.id/en/news-detail?primaryKey=38496&backUrl=/search%3Fkeywords%3DMy%20name%20is%20MT4WhatsApp%EF%BC%9A%2085294399212%26searchCategory%3D0" target="_blank">Mandiri Jogja Marathon 2017</a> where I ran the 5K, with an official time of **35:00, or a 7:00 min/km pace**. I remember it exactly because the time was a round number 😅. Oh, and I almost vomited at the finish line LOL.
 
 <div style="text-align: center; margin-top: 30px; margin-bottom: 20px;">
     <img src="/assets/mandiri-jogja-marathon-2017.webp" style="max-width: 100%; max-height: 300px; width: auto; height: auto; display: inline-block;">
