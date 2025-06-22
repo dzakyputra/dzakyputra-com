@@ -6,7 +6,7 @@ tags: ["saas"]
 ---
 
 <!-- Build a SaaS - Chat Analyzer -->
-I built <a href="https://chatanalyzer.app" target="_blank" style="color:#4285F4;">ChatAnalyzer</a> three months ago as my first attempt to break into a SaaS business.
+I built <a href="https://chatanalyzer.app" target="_blank">ChatAnalyzer</a> three months ago as my first attempt to break into a SaaS business.
 
 It is basically a *"Chat with PDF"* web app, but instead of a PDF, it uses a WhatsApp conversation as the data source.
 
