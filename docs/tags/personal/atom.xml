@@ -6,14 +6,21 @@
     <description>Recent content in Personal on Dzaky Widya Putra</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 May 2025 15:34:50 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 16:00:50 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/personal/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Internet Dollar</title>
+      <link>http://localhost:1313/blog/first-internet-dollar/</link>
+      <pubDate>Sun, 22 Jun 2025 16:00:50 +0700</pubDate>
+      <guid>http://localhost:1313/blog/first-internet-dollar/</guid>
+      <description>&lt;!-- Build a SaaS - Chat Analyzer --&gt;&#xA;&lt;p&gt;I built ChatAnalyzer as my first serious attempt to break into a SaaS business.&lt;/p&gt;&#xA;&lt;p&gt;It is basically a &amp;ldquo;Chat with PDF&amp;rdquo; web app but using a WhatsApp conversations as the data source. It has been fun, I learn a lot, but it didn&amp;rsquo;t really make any money, until&lt;/p&gt;&#xA;&lt;!-- 100 registered users - 1 user pays --&gt;&#xA;&lt;!-- Feeling, reflection, next step --&gt;&#xA;&lt;!-- SEO --&gt;</description>
+    </item>
     <item>
       <title>Keep Making Personal Bests</title>
       <link>http://localhost:1313/blog/keep-making-personal-bests/</link>
       <pubDate>Sun, 11 May 2025 15:34:50 +0700</pubDate>
       <guid>http://localhost:1313/blog/keep-making-personal-bests/</guid>
-      <description>&lt;!-- Background i am running --&gt;&#xA;&lt;p&gt;I started running around 2016. I remember that I used to run on the field in front of my university hall in the evening after classes.&lt;/p&gt;&#xA;&lt;p&gt;Not many people ran back then, at least not in Yogyakarta where I studied.&lt;/p&gt;&#xA;&lt;!-- First event at 2017 and my PB --&gt;&#xA;&lt;p&gt;Then I participated in my first running event, it was the &lt;a href=&#34;https://www.bankmandiri.co.id/en/news-detail?primaryKey=38496&amp;backUrl=/search%3Fkeywords%3DMy%20name%20is%20MT4WhatsApp%EF%BC%9A%2085294399212%26searchCategory%3D0&#34; target=&#34;_blank&#34;&gt;Mandiri Jogja Marathon 2017&lt;/a&gt; where I ran the 5K, with an official time of &lt;strong&gt;35:00, or a 7 min/km pace&lt;/strong&gt;. I remember it exactly because the time was a round number 😅. Oh, and I almost vomited at the finish line LOL.&lt;/p&gt;</description>
+      <description>&lt;!-- Background i am running --&gt;&#xA;&lt;p&gt;I started running around 2016. I remember that I used to run on the field in front of my university hall in the evening after classes.&lt;/p&gt;&#xA;&lt;p&gt;Not many people ran back then, at least not in Yogyakarta where I studied.&lt;/p&gt;&#xA;&lt;!-- First event at 2017 and my PB --&gt;&#xA;&lt;p&gt;Then I participated in my first running event, it was the &lt;a href=&#34;https://www.bankmandiri.co.id/en/news-detail?primaryKey=38496&amp;backUrl=/search%3Fkeywords%3DMy%20name%20is%20MT4WhatsApp%EF%BC%9A%2085294399212%26searchCategory%3D0&#34; target=&#34;_blank&#34;&gt;Mandiri Jogja Marathon 2017&lt;/a&gt; where I ran the 5K, with an official time of &lt;strong&gt;35:00, or a 7:00 min/km pace&lt;/strong&gt;. I remember it exactly because the time was a round number 😅. Oh, and I almost vomited at the finish line LOL.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Membuat Produk Yang Dipakai Banyak Orang</title>
@@ -44,11 +51,32 @@
       <description></description>
     </item>
     <item>
+      <title>Confused</title>
+      <link>http://localhost:1313/blog/confused/</link>
+      <pubDate>Thu, 10 Apr 2025 16:00:50 +0700</pubDate>
+      <guid>http://localhost:1313/blog/confused/</guid>
+      <description>&lt;p&gt;Jaga barang bawaan anda itu kayak cewe disuruh pakai pakaian tertutup biar ga dicatcall.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contextual  </title>
+      <link>http://localhost:1313/blog/contextual/</link>
+      <pubDate>Thu, 10 Apr 2025 16:00:50 +0700</pubDate>
+      <guid>http://localhost:1313/blog/contextual/</guid>
+      <description>&lt;p&gt;The more I hang around the people I look up to, the more I realize that all advice is contextual.&lt;/p&gt;&#xA;&lt;p&gt;They can&amp;rsquo;t teach you how to do it. They can only teach you how they did it.&lt;/p&gt;&#xA;&lt;p&gt;Follow their advice. Test its limits. Then write your own rules.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Farewell</title>
       <link>http://localhost:1313/blog/farewell/</link>
       <pubDate>Thu, 10 Apr 2025 16:00:50 +0700</pubDate>
       <guid>http://localhost:1313/blog/farewell/</guid>
       <description>&lt;p&gt;the best form of relaxation isn&amp;rsquo;t consumption, it&amp;rsquo;s creation&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Habis</title>
+      <link>http://localhost:1313/blog/habit/</link>
+      <pubDate>Thu, 10 Apr 2025 16:00:50 +0700</pubDate>
+      <guid>http://localhost:1313/blog/habit/</guid>
+      <description>&lt;p&gt;buat habit sampai tidak lagi menjadi habit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Just build things</title>
@@ -79,11 +107,25 @@
       <description></description>
     </item>
     <item>
+      <title>Morning Routines</title>
+      <link>http://localhost:1313/blog/morning-routines/</link>
+      <pubDate>Thu, 10 Apr 2025 16:00:50 +0700</pubDate>
+      <guid>http://localhost:1313/blog/morning-routines/</guid>
+      <description>&lt;!-- Automating my life, remove decision fatigue --&gt;&#xA;&lt;p&gt;Recently, I&amp;rsquo;ve been trying to change my morning routine, hitting the gym and eating a more nutritious breakfast.&lt;/p&gt;&#xA;&lt;div style=&#34;text-align: center; margin-top: 30px; margin-bottom: 20px;&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/assets/breakfast.webp&#34; style=&#34;max-width: 200px; max-height: 100%; width: auto; height: auto; display: inline-block;&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;!-- Current obsession about breakfast --&gt;&#xA;&lt;p&gt;While it is not a&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Sometimes</title>
       <link>http://localhost:1313/blog/sometimes/</link>
       <pubDate>Thu, 10 Apr 2025 16:00:50 +0700</pubDate>
       <guid>http://localhost:1313/blog/sometimes/</guid>
       <description>&lt;p&gt;We lasted 18 years. We weren&amp;rsquo;t meant to be forever but sometimes people come into your life to take you from one place to a better one. You do that for each other. We are both in a better place.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Terlalu Takut Untuk Mencoba</title>
+      <link>http://localhost:1313/blog/terlalu-takut-untuk-mencoba/</link>
+      <pubDate>Thu, 10 Apr 2025 16:00:50 +0700</pubDate>
+      <guid>http://localhost:1313/blog/terlalu-takut-untuk-mencoba/</guid>
+      <description>&lt;!-- 30 tahun tidak bisa berenang --&gt;&#xA;&lt;p&gt;Almost 30 years and I still don&amp;rsquo;t know how to swim,&lt;/p&gt;&#xA;&lt;!-- mencoba ikut les renang --&gt;&#xA;&lt;!-- pertemuan ketiga sudah bisa --&gt;&#xA;&lt;p&gt;1.5 mio for 8 meetings, why not&lt;/p&gt;&#xA;&lt;!-- bisa tapi hanya perlu berani mencoba --&gt;</description>
     </item>
     <item>
       <title>Yang Creepy Dari Skena Lari Jakarta</title>
