@@ -17,7 +17,7 @@ Then I participated in my first running event, it was the <a href="https://www.b
     <img src="/assets/mandiri-jogja-marathon-2017.webp" style="max-width: 100%; max-height: 300px; width: auto; height: auto; display: inline-block;">
 </div>
 
-I never knew my personal best time before, I ran simply because I wanted to. I didn't care about the pace—I didn't even know what that was back then. I didn't care what shoes I was wearing—I even ran barefoot my first time 🤣.
+I never knew my personal best time before, I ran simply because I wanted to. I didn't care about the pace, I didn't even know what that was back then. I didn't care what shoes I was wearing, I even ran barefoot my first time 🤣.
 
 <!-- Fast forward to 2025 and my PB -->
 Two weeks ago, almost exactly on the same date as my first running event, I recorded a new personal best for the 5K. It was **23:47, or a 4:45 min/km pace**. 

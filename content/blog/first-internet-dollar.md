@@ -8,7 +8,7 @@ tags: ["saas"]
 <!-- Build a SaaS - Chat Analyzer -->
 I built <a href="https://chatanalyzer.app" target="_blank">ChatAnalyzer</a> three months ago as my first attempt to break into a SaaS business.
 
-It is basically a *"Chat with PDF"* web app, but instead of a PDF, it uses a WhatsApp conversation as the data source.
+It is basically a *'Chat with PDF'* web app, but instead of a PDF, it uses a WhatsApp conversation as the data source.
 
 It has been fun, and I've learned a lot, but it didn't really make any money, not until June 1st, when I suddenly got this notification.
 

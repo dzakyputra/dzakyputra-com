@@ -39,7 +39,7 @@ Sebenernya gak perlu sampe dipakai jutaan orang sih, puluhan sampe ratusan *user
 
 Ada satu produk—*fun project* lebih tepatnya—yang masih dipakai orang sampai sekarang, sekitar 1-2 orang per hari lah 🤣, namanya <a href="https://best-nearby-restaurants.herokuapp.com" target="_blank">Best Nearby Restaurants</a>.
 
-Kadang lupa kalau punya ini—karena udah 2 tahun dibiarin *autopilot* aja. Sampai kadang dapat *message* dari *user* yang *complain* kalau *website* nya gak bisa dipakai.
+Kadang lupa kalau punya ini, karena udah 2 tahun dibiarin *autopilot* aja. Sampai kadang dapat *message* dari *user* yang *complain* kalau *website* nya gak bisa dipakai.
 
 <div style="text-align: center; margin-top: 30px; margin-bottom: 20px;">
     <img src="/assets/redditors-asking-nearby-resto-app.png" style="max-width: 100%; max-height: 200px; width: auto; height: auto; display: inline-block;">

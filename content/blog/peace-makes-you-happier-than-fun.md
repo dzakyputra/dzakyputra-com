@@ -33,7 +33,7 @@ I have always been a simple man, and I try to choose the simplest way to do thin
 
 Well, boring routines aren’t so bad, they save you energy and money, and honestly, saving money is the best part.
 
-As a not-so-privileged salaryman working in a third-world country without a solid government pension plan, saving and investing early as much as possible can give you a better sense of security in the future, and hopefully give you more freedom later in life—at least that's my plan.
+As a not-so-privileged salaryman working in a third-world country without a solid government pension plan, saving and investing early as much as possible can give you a better sense of security in the future, and hopefully give you more freedom later in life, at least that's my plan.
 
 And after 7 years of consistently saving and investing from my salary, I’d say I’m really happy with where I am at right now.
 
@@ -41,7 +41,7 @@ I think that’s one of the reasons I actually enjoy doing those boring routines
 
 <!-- Approaching My 30s -->
 <h1 style="margin-top: 2rem;"> Approaching My 30s </h1>
-But I understand that as life goes on, people change—and maybe I will too. 
+But I understand that as life goes on, people change, and maybe I will too. 
 
 I’ll be turning 30 next year, and I can already feel my perspective shifting.
 
