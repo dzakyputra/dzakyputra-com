@@ -6,15 +6,8 @@
     <description>Recent content in Personal on Dzaky Widya Putra</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jun 2025 16:00:50 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 15:34:50 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/personal/atom.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Internet Dollar</title>
-      <link>http://localhost:1313/blog/first-internet-dollar/</link>
-      <pubDate>Sun, 22 Jun 2025 16:00:50 +0700</pubDate>
-      <guid>http://localhost:1313/blog/first-internet-dollar/</guid>
-      <description>&lt;!-- Build a SaaS - Chat Analyzer --&gt;&#xA;&lt;p&gt;I built ChatAnalyzer as my first serious attempt to break into a SaaS business.&lt;/p&gt;&#xA;&lt;p&gt;It is basically a &amp;ldquo;Chat with PDF&amp;rdquo; web app but using a WhatsApp conversations as the data source. It has been fun, I learn a lot, but it didn&amp;rsquo;t really make any money, until&lt;/p&gt;&#xA;&lt;!-- 100 registered users - 1 user pays --&gt;&#xA;&lt;!-- Feeling, reflection, next step --&gt;&#xA;&lt;!-- SEO --&gt;</description>
-    </item>
     <item>
       <title>Keep Making Personal Bests</title>
       <link>http://localhost:1313/blog/keep-making-personal-bests/</link>

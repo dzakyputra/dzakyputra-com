@@ -24,7 +24,7 @@ To be honest, I didn't really focus on growing it for the last couple of weeks b
 But I guess having 115 users willing to register to use the service that you built is also another win 😊.
 
 <div style="text-align: center; margin-top: 30px; margin-bottom: 20px;">
-    <img src="/assets/chat-analyzer-users.webp" style="max-width: 400px; max-height: 100%; width: auto; height: auto; display: inline-block;">
+    <img src="/assets/chat-analyzer-users.webp" style="max-width: 100%; max-height: 75px; width: auto; height: auto; display: inline-block;">
 </div>
 
 <!-- Feeling -->
