@@ -32,6 +32,6 @@ I never thought I'd hit that number when I first started running, but I guess I'
 I wonder what other things I've been improving at without realizing it, just because I haven't been tracking them. Do I get better at work? Do I get better as a friend? Do I get better at being a human in general? Well, I guess it's a great idea for an app 🧐.
 
 <!-- Keep improving -->
-Hitting that number felt awesome, it was like a reminder to me to **Keep Making Personal Bests**, not only in running, but in every aspect of my life.
+Hitting that number felt awesome, it was like a reminder to me to **keep making personal bests**, not only in running, but in every aspect of my life.
 
 Isn't that what life is about, being a better version of yourself every day?
