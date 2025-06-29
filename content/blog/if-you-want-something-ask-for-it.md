@@ -1,7 +1,7 @@
 ---
 title: "If You Want Something, Ask For It"
 date: 2025-06-29T21:00:50+07:00
-draft: true
+draft: false
 tags: ["personal"]
 ---
 
