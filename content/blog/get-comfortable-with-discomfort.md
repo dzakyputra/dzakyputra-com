@@ -12,7 +12,7 @@ That's because since I was a kid, I kept moving from one city to another every t
 
 'Hometown' was a strange concept for me, even until now.
 
-When I move to a new city, the discomfort kicks in. Having to navigate a new place, meet strangers, and not knowing anyone, it sucks.
+When I moved to a new city, the discomfort kicks in. Having to navigate a new place, meet strangers, and not knowing anyone, it sucks.
 
 <!-- This week start my new job, feeling uncomfortable again -->
 For the past two weeks, I have felt it again, the unfamiliarity and discomfort of a new place (I started a new job).
@@ -25,4 +25,4 @@ Over time, I guess the discomfort would vanish, just like it did in my past expe
 
 People say that's what you need to do for your growth, but I always wonder though, should we always feel this way?
 
-Why can't we just feel comfortable every time and grow along with it.
+Why can't we just feel comfortable all the time and grow along with it? Why can't comfort and growth coexist?

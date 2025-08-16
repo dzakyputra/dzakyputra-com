@@ -8,7 +8,7 @@ tags: ["personal","work"]
 <!-- Background -->
 Setiap *commute* untuk berangkat dan balik kerja naik Transjakarta (TJ), selalu ngeliat orang-orang sibuk sama HP mereka.
 
-Ada yang *scroll* TikTok, nonton drakor, main *game*, dan yang jadi alasan tulisan kali ini dibikin—nyari barang di toko *online*.
+Ada yang *scroll* TikTok, nonton drakor, main *game*, dan yang jadi alasan tulisan kali ini dibikin, yaitu nyari barang di toko *online*.
 
 <div style="text-align: center; margin-top: 30px; margin-bottom: 20px;">
     <img src="/assets/person-looking-at-smartphone.jpg" style="max-width: 100%; max-height: 300px; width: auto; height: auto; display: inline-block;">
