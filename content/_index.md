@@ -1,7 +1,7 @@
 A Software Engineer with 5+ years of experience, currently working at Grab, previously Tokopedia and ByteDance
 
 ## Stacks & Interests:
-- Go, Python, TypeScript, TailwindCSS, Next.js, PostgreSQL, Redis, InstantDB, AI & Machine Learning
+- Go, Python, TypeScript, TailwindCSS, Next.js, React Native, PostgreSQL, Redis, InstantDB, AI & Machine Learning
 
 ## Projects:
 - 💬 <a href="https://barebudget.app/" target="_blank">BareBudget</a> - A super simple, privacy-first expense tracker
