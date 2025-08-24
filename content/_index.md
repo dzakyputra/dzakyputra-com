@@ -4,6 +4,7 @@ A Software Engineer with 5+ years of experience, currently working at Grab, prev
 - Go, Python, TypeScript, TailwindCSS, Next.js, React Native, PostgreSQL, Redis, InstantDB, AI & Machine Learning
 
 ## Projects:
+- 📄 <a href="https://publishmarkdown.com/" target="_blank">Publish Markdown</a> - A one-click tool to publish markdown online
 - 💲 <a href="https://barebudget.app/" target="_blank">BareBudget</a> - A super simple, privacy-first expense tracker
 - 💬 <a href="https://chatanalyzer.app/" target="_blank">Chat Analyzer</a> - Analyze your WhatsApp chat using AI
 - 📃 <a href="https://itinerai.fly.dev/" target="_blank">AI Itinerary Generator</a> - Generate travel itinerary using AI
