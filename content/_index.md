@@ -1,4 +1,4 @@
-A Software Engineer with 5+ years of experience, currently working at Grab, previously Tokopedia and ByteDance
+A Software Engineer with 5+ years of experience, currently working at Tokopedia
 
 ## Stacks & Interests:
 - Go, Python, TypeScript, TailwindCSS, Next.js, React Native, PostgreSQL, Redis, InstantDB, AI & Machine Learning

@@ -16,10 +16,10 @@ theme = 'maverick'
 
 [menu]
  [[menu.main]]
-   identifier = "blog"
-   name = "Blog"
-   url = "/blog/"
-   weight = -200
+   #identifier = "blog"
+   #name = "Blog"
+   #url = "/blog/"
+   #weight = -200
 
 [markup]
   [markup.goldmark.renderer]
