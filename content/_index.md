@@ -5,7 +5,7 @@ A Software Engineer with over 5 years of experience, currently on sabbatical and
 
 ## Projects:
 - 📄 <a href="https://publishmarkdown.com/" target="_blank">Publish Markdown</a> - Turn markdown into a web page with a single click
-- 📄 <a href="https://barebudget.app/" target="_blank">BareBudget</a> - A super simple, privacy-first expense tracker for iOS
+- 💰 <a href="https://barebudget.app/" target="_blank">BareBudget</a> - A super simple, privacy-first expense tracker for iOS
 - 💬 <a href="https://chatanalyzer.app/" target="_blank">Chat Analyzer</a> - Analyze your WhatsApp chat using AI
 - 📃 <a href="https://itinerai.fly.dev/" target="_blank">AI Itinerary Generator</a> - Generate travel itinerary using AI
 - 📔 <a href="https://bestbookstoread.info" target="_blank">Best Books To Read</a> - AI-powered book recommendation blog
