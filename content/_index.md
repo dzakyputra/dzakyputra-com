@@ -1,12 +1,13 @@
-A Software Engineer with 5+ years of experience, currently working at Tokopedia
+A Software Engineer with over 5 years of experience, currently on sabbatical and exploring new things, previously at Tokopedia and ByteDance.
 
 ## Stacks & Interests:
 - Go, Python, TypeScript, TailwindCSS, Next.js, React Native, PostgreSQL, Redis, InstantDB, AI & Machine Learning
 
 ## Projects:
+- 📄 <a href="https://publishmarkdown.com/" target="_blank">Publish Markdown</a> - Turn markdown into a web page with a single click
+- 📄 <a href="https://barebudget.app/" target="_blank">BareBudget</a> - A super simple, privacy-first expense tracker for iOS
 - 💬 <a href="https://chatanalyzer.app/" target="_blank">Chat Analyzer</a> - Analyze your WhatsApp chat using AI
 - 📃 <a href="https://itinerai.fly.dev/" target="_blank">AI Itinerary Generator</a> - Generate travel itinerary using AI
-- 🍽️ <a href="https://best-nearby-restaurants.herokuapp.com" target="_blank">Best Nearby Restaurants</a> - Discover top-rated dining spots in your area
 - 📔 <a href="https://bestbookstoread.info" target="_blank">Best Books To Read</a> - AI-powered book recommendation blog
 
 ## Technical Writings:
