@@ -1,4 +1,4 @@
-A Software Engineer with over 5 years of experience, currently on sabbatical and exploring new things, previously at Tokopedia and ByteDance.
+A Software Engineer with over 5 years of experience, currently on sabbatical and exploring new things, previously at Tokopedia and ByteDance
 
 ## Stacks & Interests:
 - Go, Python, TypeScript, TailwindCSS, Next.js, React Native, PostgreSQL, Redis, InstantDB, AI & Machine Learning
