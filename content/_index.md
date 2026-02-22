@@ -1,5 +1,3 @@
-<!-- A Software Engineer with over 5 years of experience, currently working at <a href="https://traveloka.com/" target="_blank">Traveloka</a>, previously at Grab, Tokopedia and ByteDance -->
-
 A Software Engineer with over 5 years of experience, currently on sabbatical and exploring new things, previously at Grab, Tokopedia and ByteDance
 
 ## Stacks & Interests
